@@ -75,13 +75,70 @@ Projeto desenvolvido para praticar:
 
 ## 📚 Atualmente Estudando
 
-- C#
-- SQL
-- Git e GitHub
-- HTML5
-- CSS3
-- JavaScript
-- Desenvolvimento Backend
+---
+
+# 🗺️ Roadmap de Estudos
+
+## 📌 Fundamentos
+- [x] Lógica de Programação
+- [x] Git e GitHub
+- [x] Algoritmos básicos
+- [ ] Estruturas de Dados
+- [ ] Programação Orientada a Objetos (POO)
+
+---
+
+## 💻 Backend com C#
+- [x] Sintaxe básica C#
+- [x] Estruturas condicionais
+- [x] Laços de repetição
+- [x] Métodos e funções
+- [x] Arrays e listas
+- [x] Classes e objetos
+- [ ] APIs REST com .NET
+- [ ] Entity Framework
+- [ ] ASP.NET Core
+
+---
+
+## 🌐 Frontend
+- [x] HTML5
+- [x] CSS3
+- [x] JavaScript básico
+- [ ] Responsividade
+- [ ] DOM
+- [ ] Consumo de APIs
+- [ ] React
+
+---
+
+## 🗄️ Banco de Dados
+- [x] SQL básico
+- [ ] SELECT avançado
+- [ ] JOINS
+- [ ] Modelagem de dados
+- [ ] SQL Server
+- [ ] Integração C# + Banco de Dados
+
+---
+
+## ⚙️ Ferramentas
+- [x] Git
+- [x] GitHub
+- [ ] Git Flow
+- [ ] Docker
+- [ ] Azure
+- [ ] Deploy de aplicações
+
+---
+
+## 🚀 Projetos Planejados
+
+- 🎮 Jokenpô em C#
+- ✅ Lista de tarefas
+- 🔐 Sistema de login
+- 📚 CRUD completo
+- 🌐 API REST em .NET
 
 ---
 
