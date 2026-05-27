@@ -60,19 +60,6 @@ Projeto desenvolvido para praticar:
 
 ---
 
-## 📈 Estatísticas GitHub
-
-<div align="center">
-
-<a href="https://github.com/George-Abreu-git">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=George-Abreu-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=George-Abreu-git&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📚 Atualmente Estudando
 
 ---
