@@ -73,8 +73,8 @@ Projeto desenvolvido para praticar:
 - [x] Estruturas condicionais
 - [x] Laços de repetição
 - [x] Métodos e funções
-- [x] Arrays e listas
-- [x] Classes e objetos
+- [ ] Arrays e listas
+- [ ] Classes e objetos
 - [ ] APIs REST com .NET
 - [ ] Entity Framework
 - [ ] ASP.NET Core
@@ -105,8 +105,9 @@ Projeto desenvolvido para praticar:
 ## ⚙️ Ferramentas
 - [x] Git
 - [x] GitHub
+- [x] GitLab
 - [ ] Git Flow
-- [ ] Docker
+- [x] Docker
 - [ ] Azure
 - [ ] Deploy de aplicações
 
@@ -136,7 +137,7 @@ Projeto desenvolvido para praticar:
 📧 Email: georgeabreu68@outlook.com  
 
 💼 LinkedIn:
-https://linkedin.com/in/george-abreu-b787b833a
+https://linkedin.com/in/george-abreu-siqueira
 
 🐱 GitHub:
 https://github.com/George-Abreu-git
