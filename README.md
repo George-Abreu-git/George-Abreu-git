@@ -11,7 +11,7 @@
 
 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas  
 💡 Estudando desenvolvimento com foco em C# e lógica de programação  
-📚 Aprendendo SQL, Git, HTML, CSS e JavaScript  
+📚 Aprendendo C#, SQL, Git, HTML, CSS, JavaScript, Docker e GitLab  
 🚀 Desenvolvendo projetos práticos para fortalecer minhas habilidades  
 📍 Porto Alegre - RS
 
