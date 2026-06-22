@@ -53,10 +53,6 @@ Projeto desenvolvido para praticar:
 
 ---
 
-## 📚 Atualmente Estudando
-
----
-
 # 🗺️ Roadmap de Estudos
 
 ## 📌 Fundamentos
