@@ -12,9 +12,6 @@
   <a href="mailto:georgeabreu68@outlook.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contato-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/dio-community">
-    <img alt="DIO" src="https://img.shields.io/badge/DIO-Desafios-FF7300?style=flat" />
-  </a>
 </p>
 
 ---
